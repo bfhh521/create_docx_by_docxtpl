@@ -1,7 +1,8 @@
 # create_docx_by_docxtpl
 # 概述
 
-大概是一些信息需要从excel表格中读取，然后填写到word固定位置后批量出局报告，操作繁琐，重复劳动，使用docxtpl库实现。
+在工频电磁场测量仪校准实验中，需要根据委托信息、实验数据来编制委托协议、客户沟通记录，以及出具实验报告。
+大概流程是从现有的excel表格中抽取一系列字符，然后填写到word固定位置后批量生成文档，手动操作繁琐，重复劳动缺乏效率，使用docxtpl库实现。
 
  **应用环境如下：**
 * Windows 10
@@ -122,10 +123,12 @@ tpl_2.save(path_save2)
 在这里插入代码片
 ```
 
-[1]: [Python模板引擎——jinja2的基本用法集锦](https://www.jianshu.com/p/3bd05fc58776)
-[2]: [利用python批量出报告](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)
-[3]: [Python办公自动化 | excel读取和写入](https://cloud.tencent.com/developer/article/1573181)
-[4]: [Python办公自动化 | 批量word报告生成工具](https://cloud.tencent.com/developer/article/1573184)
+# 参考文献
+·
+[1]:  [Python模板引擎——jinja2的基本用法集锦](https://www.jianshu.com/p/3bd05fc58776)
+[2]:  [利用python批量出报告](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)
+[3]:  [Python办公自动化 excel读取和写入](https://cloud.tencent.com/developer/article/1573181)
+[4]:  [Python办公自动化 批量word报告生成工具](https://cloud.tencent.com/developer/article/1573184)
 [5]:  [python-docx template 操作word文档](https://blog.csdn.net/qcyfred/article/details/79925099?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 [6]:  [超简单Python将Excel的指定数据插入到docx模板并生成](https://blog.csdn.net/weixin_41133061/article/details/88543432)
 [7]: [Excel信息批量替换Word模板生成新文件](https://blog.csdn.net/chen8782186/article/details/98784005?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
@@ -135,4 +138,4 @@ tpl_2.save(path_save2)
 
 
 
-[另外这一篇作者只使用了python-docx库也达到了批量出具报告的作用](https://cloud.tencent.com/developer/article/1573184)
+[另外这一篇作者只使用了python-docx库也达到了批量出具报告的效果](https://cloud.tencent.com/developer/article/1573184)
