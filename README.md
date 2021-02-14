@@ -124,16 +124,16 @@ tpl_2.save(path_save2)
 ```
 
 # 参考文献
-·
-[1]:  [Python模板引擎——jinja2的基本用法集锦](https://www.jianshu.com/p/3bd05fc58776)
-[2]:  [利用python批量出报告](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)
-[3]:  [Python办公自动化 excel读取和写入](https://cloud.tencent.com/developer/article/1573181)
-[4]:  [Python办公自动化 批量word报告生成工具](https://cloud.tencent.com/developer/article/1573184)
-[5]:  [python-docx template 操作word文档](https://blog.csdn.net/qcyfred/article/details/79925099?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-[6]:  [超简单Python将Excel的指定数据插入到docx模板并生成](https://blog.csdn.net/weixin_41133061/article/details/88543432)
-[7]: [Excel信息批量替换Word模板生成新文件](https://blog.csdn.net/chen8782186/article/details/98784005?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-[8]:[Pandas查找缺失值的位置，并返回缺失值行号以及列号](https://blog.csdn.net/u010924297/article/details/80060229)
-[9]:[基于docxtpl的自动化报告生成(基于word模板)](https://blog.csdn.net/yycoolsam/article/details/103255271?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158488225319724811860476%2522%252C%2522scm%2522%253A%252220140713.130056874..%2522%257D&request_id=158488225319724811860476&biz_id=0&utm_source=distribute.pc_search_result.none-task)
+
+[[1]:[Python模板引擎——jinja2的基本用法集锦]](https://www.jianshu.com/p/3bd05fc58776)  
+[2]:[利用python批量出报告](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)  
+[3]:[Python办公自动化|excel读取和写入](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)  
+[4]:[Python办公自动化|批量word报告生成工具](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)  
+[5]:[python-docx|template 操作word文档](https://www.capallen.top/2019/%E5%88%A9%E7%94%A8python%E6%89%B9%E9%87%8F%E5%86%99%E6%8A%A5%E5%91%8A)  
+[6]:[超简单Python将Excel的指定数据插入到docx模板并生成](https://blog.csdn.net/weixin_41133061/article/details/88543432)  
+[7]:[Excel信息批量替换Word模板生成新文件](https://blog.csdn.net/chen8782186/article/details/98784005?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)  
+[8]:[Pandas查找缺失值的位置，并返回缺失值行号以及列号](https://blog.csdn.net/u010924297/article/details/80060229)  
+[9]:[基于docxtpl的自动化报告生成(基于word模板)](https://blog.csdn.net/yycoolsam/article/details/103255271?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158488225319724811860476%2522%252C%2522scm%2522%253A%252220140713.130056874..%2522%257D&request_id=158488225319724811860476&biz_id=0&utm_source=distribute.pc_search_result.none-task)  
 
 
 
